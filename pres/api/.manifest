@@ -1,0 +1,8 @@
+{
+  "JotunShard.Globalization": "JotunShard.Globalization.yml",
+  "JotunShard.Globalization.Enums": "JotunShard.Globalization.Enums.yml",
+  "JotunShard.Globalization.Enums.GetStringValue(System.Enum)": "JotunShard.Globalization.Enums.yml",
+  "JotunShard.Globalization.StringEnumValuAttribute": "JotunShard.Globalization.StringEnumValuAttribute.yml",
+  "JotunShard.Globalization.StringEnumValuAttribute.#ctor(System.String)": "JotunShard.Globalization.StringEnumValuAttribute.yml",
+  "JotunShard.Globalization.StringEnumValuAttribute.Value": "JotunShard.Globalization.StringEnumValuAttribute.yml"
+}
