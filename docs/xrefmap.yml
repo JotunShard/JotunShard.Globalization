@@ -26,35 +26,35 @@ references:
   isSpec: "True"
   fullName: JotunShard.Globalization.Enums.GetStringValue
   nameWithType: Enums.GetStringValue
-- uid: JotunShard.Globalization.StringEnumValuAttribute
-  name: StringEnumValuAttribute
-  href: api/JotunShard.Globalization.StringEnumValuAttribute.html
-  commentId: T:JotunShard.Globalization.StringEnumValuAttribute
-  fullName: JotunShard.Globalization.StringEnumValuAttribute
-  nameWithType: StringEnumValuAttribute
-- uid: JotunShard.Globalization.StringEnumValuAttribute.#ctor(System.String)
-  name: StringEnumValuAttribute(String)
-  href: api/JotunShard.Globalization.StringEnumValuAttribute.html#JotunShard_Globalization_StringEnumValuAttribute__ctor_System_String_
-  commentId: M:JotunShard.Globalization.StringEnumValuAttribute.#ctor(System.String)
-  fullName: JotunShard.Globalization.StringEnumValuAttribute.StringEnumValuAttribute(System.String)
-  nameWithType: StringEnumValuAttribute.StringEnumValuAttribute(String)
-- uid: JotunShard.Globalization.StringEnumValuAttribute.#ctor*
-  name: StringEnumValuAttribute
-  href: api/JotunShard.Globalization.StringEnumValuAttribute.html#JotunShard_Globalization_StringEnumValuAttribute__ctor_
-  commentId: Overload:JotunShard.Globalization.StringEnumValuAttribute.#ctor
+- uid: JotunShard.Globalization.StringValuAttribute
+  name: StringValuAttribute
+  href: api/JotunShard.Globalization.StringValuAttribute.html
+  commentId: T:JotunShard.Globalization.StringValuAttribute
+  fullName: JotunShard.Globalization.StringValuAttribute
+  nameWithType: StringValuAttribute
+- uid: JotunShard.Globalization.StringValuAttribute.#ctor(System.String)
+  name: StringValuAttribute(String)
+  href: api/JotunShard.Globalization.StringValuAttribute.html#JotunShard_Globalization_StringValuAttribute__ctor_System_String_
+  commentId: M:JotunShard.Globalization.StringValuAttribute.#ctor(System.String)
+  fullName: JotunShard.Globalization.StringValuAttribute.StringValuAttribute(System.String)
+  nameWithType: StringValuAttribute.StringValuAttribute(String)
+- uid: JotunShard.Globalization.StringValuAttribute.#ctor*
+  name: StringValuAttribute
+  href: api/JotunShard.Globalization.StringValuAttribute.html#JotunShard_Globalization_StringValuAttribute__ctor_
+  commentId: Overload:JotunShard.Globalization.StringValuAttribute.#ctor
   isSpec: "True"
-  fullName: JotunShard.Globalization.StringEnumValuAttribute.StringEnumValuAttribute
-  nameWithType: StringEnumValuAttribute.StringEnumValuAttribute
-- uid: JotunShard.Globalization.StringEnumValuAttribute.Value
+  fullName: JotunShard.Globalization.StringValuAttribute.StringValuAttribute
+  nameWithType: StringValuAttribute.StringValuAttribute
+- uid: JotunShard.Globalization.StringValuAttribute.Value
   name: Value
-  href: api/JotunShard.Globalization.StringEnumValuAttribute.html#JotunShard_Globalization_StringEnumValuAttribute_Value
-  commentId: P:JotunShard.Globalization.StringEnumValuAttribute.Value
-  fullName: JotunShard.Globalization.StringEnumValuAttribute.Value
-  nameWithType: StringEnumValuAttribute.Value
-- uid: JotunShard.Globalization.StringEnumValuAttribute.Value*
+  href: api/JotunShard.Globalization.StringValuAttribute.html#JotunShard_Globalization_StringValuAttribute_Value
+  commentId: P:JotunShard.Globalization.StringValuAttribute.Value
+  fullName: JotunShard.Globalization.StringValuAttribute.Value
+  nameWithType: StringValuAttribute.Value
+- uid: JotunShard.Globalization.StringValuAttribute.Value*
   name: Value
-  href: api/JotunShard.Globalization.StringEnumValuAttribute.html#JotunShard_Globalization_StringEnumValuAttribute_Value_
-  commentId: Overload:JotunShard.Globalization.StringEnumValuAttribute.Value
+  href: api/JotunShard.Globalization.StringValuAttribute.html#JotunShard_Globalization_StringValuAttribute_Value_
+  commentId: Overload:JotunShard.Globalization.StringValuAttribute.Value
   isSpec: "True"
-  fullName: JotunShard.Globalization.StringEnumValuAttribute.Value
-  nameWithType: StringEnumValuAttribute.Value
+  fullName: JotunShard.Globalization.StringValuAttribute.Value
+  nameWithType: StringValuAttribute.Value

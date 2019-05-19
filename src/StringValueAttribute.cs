@@ -3,11 +3,11 @@
 namespace JotunShard.Globalization
 {
     [AttributeUsage(AttributeTargets.Field)]
-    public class StringEnumValuAttribute : Attribute
+    public class StringValuAttribute : Attribute
     {
         public string Value { get; }
 
-        public StringEnumValuAttribute(string value)
+        public StringValuAttribute(string value)
         {
             Value = value;
         }

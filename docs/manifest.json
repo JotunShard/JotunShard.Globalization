@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JotunShard.Globalization.Enums.html",
-          "hash": "FSLRyKwaw0ZqsoWCLP4hCw=="
+          "hash": "p+G7jS4gSJY2iCPm3tpqSw=="
         }
       },
       "is_incremental": false,
@@ -17,11 +17,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/JotunShard.Globalization.StringEnumValuAttribute.yml",
+      "source_relative_path": "api/JotunShard.Globalization.StringValuAttribute.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JotunShard.Globalization.StringEnumValuAttribute.html",
-          "hash": "+c0MNlV3ClzU5fxP57pqhQ=="
+          "relative_path": "api/JotunShard.Globalization.StringValuAttribute.html",
+          "hash": "LWsgt/T/liaRsEbSkv9EcQ=="
         }
       },
       "is_incremental": false,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JotunShard.Globalization.html",
-          "hash": "nUCFgYKUHcM8ejqLnxWvnA=="
+          "hash": "pmF57Emv/7IWtUMyl7gviQ=="
         }
       },
       "is_incremental": false,
@@ -45,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "m/b/dQ5vE1sehKHA1cvQtQ=="
+          "hash": "z6TYMDY9imcopCe12vPXnw=="
         }
       },
       "is_incremental": false,
@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "Ahzd1Rtoinoc9kX6jtbUYg=="
+          "hash": "TKsqXeTF9XjwMBTylBInng=="
         }
       },
       "is_incremental": false,
@@ -69,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "PgdERfuEPc0OWm1SwZfX+A=="
+          "hash": "Ia6WivxtHcpEMX2N40Wp3g=="
         }
       },
       "is_incremental": false,
@@ -93,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "wl5Gp+PHfnpba9dn/8++SA=="
+          "hash": "C0Gu/zraEyj3Pt753BjBng=="
         }
       },
       "is_incremental": false,
